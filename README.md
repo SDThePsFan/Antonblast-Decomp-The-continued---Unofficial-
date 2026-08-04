@@ -12,7 +12,7 @@ It's about making it more or less like in the final versions or the 2023 demo (L
 Well, of course, it's not going to be the full game, just a demo that can be modified and playable to our liking.
 
 # What is needed for this decomp? 
-# Have GMS 2022  2022
+Have GMS 2022  2022
 (Current versions may bring you errors.)
 
 Soon I'll be leaving you a link to the Discord server so we can talk, chat and help each other in the GML thing and blah blah blah.
