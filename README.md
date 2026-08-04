@@ -15,6 +15,8 @@ Well, of course, it's not going to be the full game, just a demo that can be mod
 Have GMS 2022  2022
 (Current versions may bring you errors.)
 
+# The End of this reading.
+
 Soon I'll be leaving you a link to the Discord server so we can talk, chat and help each other in the GML thing and blah blah blah.
 (By the way, there is no need to make contributions with boost, thanks)
 
